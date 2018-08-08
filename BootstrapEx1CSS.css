@@ -36,15 +36,15 @@ header.startup {
 
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 1rem 2rem !important; 
 }
 
 
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44; 
-margin-bottom: 220px;
+  background-color: #F05F44 !important;
+  border-color: #F05F44 !important; 
+margin-bottom: 220px !important;
 }
 
 
@@ -60,6 +60,6 @@ margin-bottom: 220px;
 
 
 header.startup hr {
-  margin-top: 250px;
-  margin-bottom: 32px; 
+  margin-top: 250px !important;
+  margin-bottom: 32px !important; 
 }
