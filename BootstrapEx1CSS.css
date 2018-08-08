@@ -1,0 +1,65 @@
+
+body{
+	text-align: center;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	background-image: url("header.jpg");
+  background-size: cover;
+  position: static;
+  overflow: hidden;
+  background-position: center;
+  
+}
+.content{
+	margin-top: 100px;
+ 
+}
+
+header.startup {
+  background-position: center;
+  
+  height: 100%;
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 200px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; 
+margin-bottom: 220px;
+}
+
+
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+
+}
+
+
+
+header.startup hr {
+  margin-top: 250px;
+  margin-bottom: 32px; 
+}
